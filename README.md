@@ -2,7 +2,7 @@
 
 This repository contains a presentation on Data Curation for the Environmental Sciences given at UC Santa Barbara on July 23 2019.
 
-For the actual presentation, please see the [hosted version](https://tibbben.github.io/ucsb2019).
+For the actual presentation, please see the [hosted version](https://tibbben.github.io/ucsb2019/).
 
 ---
 
