@@ -1,4 +1,4 @@
-# UCSB - Data Cufration for Environmental Sciences
+# UCSB - Data Curation for Environmental Sciences
 
 This repository contains a presentation on Data Curation for the Environmental Sciences given at UC Santa Barbara on July 23 2019.
 
